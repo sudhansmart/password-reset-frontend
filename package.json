@@ -1,5 +1,5 @@
 {
-  "name": "password-reset",
+  "name": "password-reset-frontend",
   "private": true,
   "proxy": "https://password-reset-6ofd.onrender.com",
   "version": "0.0.0",
