@@ -1,0 +1,35 @@
+.signup{
+  max-width: 400px;
+  background-color: #f7f7f7;
+  margin: 60px auto;
+  border-radius: 5px;
+  box-shadow: 5px 5px 10px #888888;
+  padding: 25px;
+}
+
+.form-label{
+  display: flex;
+}
+.form-control{
+  margin-bottom: 10px;
+}
+.btn-primary{
+  width: 100%;
+  margin-bottom: 5px;
+}
+.login{
+  max-width: 400px;
+  background-color: #f7f7f7;
+  margin: 60px auto;
+  border-radius: 5px;
+  box-shadow: 5px 5px 10px #888888;
+  padding: 25px;
+}
+.login-content{
+  display: inline;
+}
+a{
+  color: royalblue;
+  margin-bottom: 10px;
+  text-decoration: none;
+}
